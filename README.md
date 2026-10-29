@@ -2,6 +2,8 @@
 
 本仓库只发布 Windows 桌面版安装包、更新清单和更新日志，不包含源代码。
 
+> 当前安装包暂未做代码签名，Windows SmartScreen 可能提示“未知发布者”。请只从本仓库下载，并用下方的 SHA-512 核对文件。
+
 ## 下载
 
 请到 [Releases](https://github.com/kkeven0911/Fapiaobox/releases/latest) 下载最新版本。
