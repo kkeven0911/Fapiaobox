@@ -8,7 +8,7 @@
 
 ## 下载
 
-请到 [Releases](https://github.com/kkeven0911/Fapiaobox/releases) 查看所有版本。当前最新为 [v1.0.2](https://github.com/kkeven0911/Fapiaobox/releases/tag/v1.0.2)，可直接下载 [FapiaoBox-Setup-1.0.2.exe](https://github.com/kkeven0911/Fapiaobox/releases/download/v1.0.2/FapiaoBox-Setup-1.0.2.exe)。
+请到 [Releases](https://github.com/kkeven0911/Fapiaobox/releases) 查看所有版本。当前最新为 [v1.0.3](https://github.com/kkeven0911/Fapiaobox/releases/tag/v1.0.3)，可直接下载 [FapiaoBox-Setup-1.0.3.exe](https://github.com/kkeven0911/Fapiaobox/releases/download/v1.0.3/FapiaoBox-Setup-1.0.3.exe)。
 
 ## 安装
 
