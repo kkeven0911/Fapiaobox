@@ -16,9 +16,9 @@
 
 ## 校验
 
-- SHA-256：`670752a2e9465fa0aabfb54c247f2cc2d4b34b47d70d6ef96c279ed8138f7965`
-- SHA-512：`ddbkhXePvhm14T7Bz4FRPClEOpbXqmw493l2sYwdKOztWRnXOgAbZ8OPTJ3qm2wLLEKrpinnnrksCQCcat00QQ==`
-- 大小：211566554 字节
+- SHA-256：`b3f3a515dbf2fa1a57eb79c8560bb4c04aa94ae11783d3470d31300108bbbfd5`
+- SHA-512：`NugsKuKXnrwdZbiVkJOkzboKQsg8ckxpiDJ2uZ44C/jFGIa9U7buLtAwcHwIhak1Z/NnEQpqCjCtcne4WMRl4w==`
+- 大小：211566670 字节
 
 每个 Release 附带 `latest.yml`，其中包含安装包的 SHA-512。如需手动核对，可在 PowerShell 中执行：
 
