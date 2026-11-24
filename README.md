@@ -8,27 +8,27 @@
 
 ## 下载
 
-当前最新版本：**v1.21.2**
+当前最新版本：**v1.21.3**
 
-- GitHub：[FapiaoBox-Setup-1.21.2.exe](https://github.com/kkeven0911/Fapiaobox/releases/download/v1.21.2/FapiaoBox-Setup-1.21.2.exe)（完整安装包，201.8 MB）
-- GitCode 国内下载：[v1.21.2 发行版](https://gitcode.com/ssss33/FapiaoBox/releases/tag/v1.21.2)（完整安装包）
+- GitHub：[FapiaoBox-Setup-1.21.3.exe](https://github.com/kkeven0911/Fapiaobox/releases/download/v1.21.3/FapiaoBox-Setup-1.21.3.exe)（完整安装包，201.8 MB）
+- GitCode 国内下载：[v1.21.3 发行版](https://gitcode.com/ssss33/FapiaoBox/releases/tag/v1.21.3)（完整安装包）
 - 所有版本：[GitHub Releases](https://github.com/kkeven0911/Fapiaobox/releases)
 
 ## 校验
 
-- SHA-256：`a396ee47d2d7dc7ee7f7d5574b8d2b8d7946ec49fc58e133fa6755e613448097`
-- SHA-512：`+tMkWqn/n+KoQ4iSC/jo0S1uOShCZddFEg6Gea/SHhMpb9N5ER2+/fSAiW+HOjy9hTjKX4hsuCqL4j3spV8Wrw==`
-- 大小：211646574 字节
+- SHA-256：`7528663d296cfbbcbc94ddc0cad80981ede0e1279045e9d39131beae1bdd72fd`
+- SHA-512：`E0GA8rEn7GLtm6u0lZJTQ7eg7BH1QYUG8Wx2IS5eBKcrQiSAyJuoV3/Tvzyff+GYxl6dg1As4em+O/Hufk/dZw==`
+- 大小：211648930 字节
 
 每个 Release 附带 `latest.yml`，其中包含安装包的 SHA-512。如需手动核对，可在 PowerShell 中执行：
 
 ```powershell
-Get-FileHash .\FapiaoBox-Setup-1.21.2.exe -Algorithm SHA256
+Get-FileHash .\FapiaoBox-Setup-1.21.3.exe -Algorithm SHA256
 ```
 
 ## 安装
 
-1. 下载 `FapiaoBox-Setup-1.21.2.exe`；
+1. 下载 `FapiaoBox-Setup-1.21.3.exe`；
 2. 关闭正在运行的发票匣子（包括托盘里的进程）；
 3. 运行安装包，按提示覆盖安装；
 4. 覆盖安装通常保留原安装目录中的数据、备份和设置。升级前建议先复制整个安装目录（至少 `data`、`bak`、`config`）。
